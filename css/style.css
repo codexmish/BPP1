@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* ---------------common css start--------------------- */
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+img{
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+}
+h1,h2,h3,h4,h5,h6,p,ul,ol{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --primary-color: #00c604;
+    --secondry-color: #151b20;
+    --white-color: #fff;
+    --black-color: #0e1317;
+
+    /* Text Color */
+
+    --text-primary: #00c604;
+    --text-secondry: #151b20;
+    --text-white: #fff;
+    --text-color: #cfd3d7;
+    --text-gray: #000;
+    
+    /* font-family */
+    --base-font: "Roboto", sans-serif;
+    --heading-font: "Lobster Two", sans-serif;
+}
+
+
+/* ---------------common css end--------------------- */
+
+
+
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+/* ---------------common css start--------------------- */
+
+/* ---------------common css start--------------------- */
